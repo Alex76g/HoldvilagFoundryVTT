@@ -25,8 +25,8 @@
   "gridUnits": "m",
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
-  "url": "https://github.com/Alex76g/HoldvilagFoundryVTT/",
-  "manifest": "https://github.com/Alex76g/HoldvilagFoundryVTT/blob/main/system.json",
+  "url": "https://github.com/Alex76g/HoldvilagFoundryVTT/tree/main/holdvilag",
+  "manifest": "https://github.com/Alex76g/HoldvilagFoundryVTT/blob/main/holdvilag/system.json",
   "download": "https://github.com/Alex76g/HoldvilagFoundryVTT/archive/main.zip"
 }
 
