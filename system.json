@@ -2,7 +2,7 @@
   "name": "holdvilag",
   "title": "Holdvilág szerepjáték rendszer",
   "description": "A saját fejlesztésű rendszer Foundry VTT verziója.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "templateVersion": 2,
   "author": "Alexics Alex Gábor (alexics.gabor@gmail.com)",
   "scripts": [
