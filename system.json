@@ -1,1 +1,49 @@
+{
+  "name": "holdvilag",
+  "title": "Holdvilág szerepjáték rendszer",
+  "description": "A saját fejlesztésű rendszer Foundry VTT verziója.",
+  "version": "0.0.1",
+  "templateVersion": 1,
+  "author": "Alexics \"Alex\" Gábor (alexics.gabor@gmail.com)",
+  "scripts": [
+  ],
+  "esmodules": [
+  ],
+  "styles": [
+  ],
+  "packs": [
+    {
+      "name": "monsters",
+      "label": "Monsters",
+      "system": "mysystem",
+      "module": "mysystem",
+      "path": "packs/monsters.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "system": "mysystem",
+      "module": "mysystem",
+      "path": "packs/items.db",
+      "entity": "Item"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "initiative": "1d20",
+  "gridDistance": 10,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "resources.health",
+  "secondaryTokenAttribute": "resources.power",
+  "url": "https://your/hosted/system/repo/",
+  "manifest": "https://your/hosted/system/repo/system.json",
+  "download": "https://your/packaged/download/archive.zip"
+}
 
