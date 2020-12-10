@@ -17,8 +17,8 @@
   "initiative": "2d6",
   "gridDistance": 1,
   "gridUnits": "m",
-  "primaryTokenAttribute": "resources.ép",
-  "secondaryTokenAttribute": "resources.vé",
+  "primaryTokenAttribute": "resources.health",
+  "secondaryTokenAttribute": "resources.power",
   "url": "https://github.com/Alex76g/HoldvilagFoundryVTT/",
   "manifest": "https://github.com/Alex76g/HoldvilagFoundryVTT/blob/main/system.json",
   "download": "https://github.com/Alex76g/HoldvilagFoundryVTT/archive/main.zip"
