@@ -3,8 +3,8 @@
   "title": "Holdvilág szerepjáték rendszer",
   "description": "A saját fejlesztésű rendszer Foundry VTT verziója.",
   "version": "0.0.1",
-  "templateVersion": 1,
-  "author": "Alexics \"Alex\" Gábor (alexics.gabor@gmail.com)",
+  "templateVersion": 2,
+  "author": "Alexics Alex Gábor (alexics.gabor@gmail.com)",
   "scripts": [
   ],
   "esmodules": [
@@ -12,7 +12,13 @@
   "styles": [
   ],
   "packs": [],
-  "languages": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
   "socket": false,
   "initiative": "2d6",
   "gridDistance": 1,
