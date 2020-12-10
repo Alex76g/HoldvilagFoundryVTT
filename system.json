@@ -11,39 +11,16 @@
   ],
   "styles": [
   ],
-  "packs": [
-    {
-      "name": "monsters",
-      "label": "Monsters",
-      "system": "mysystem",
-      "module": "mysystem",
-      "path": "packs/monsters.db",
-      "entity": "Actor"
-    },
-    {
-      "name": "items",
-      "label": "Items",
-      "system": "mysystem",
-      "module": "mysystem",
-      "path": "packs/items.db",
-      "entity": "Item"
-    }
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
+  "packs": [],
+  "languages": [],
   "socket": false,
-  "initiative": "1d20",
-  "gridDistance": 10,
-  "gridUnits": "ft",
-  "primaryTokenAttribute": "resources.health",
-  "secondaryTokenAttribute": "resources.power",
-  "url": "https://your/hosted/system/repo/",
-  "manifest": "https://your/hosted/system/repo/system.json",
-  "download": "https://your/packaged/download/archive.zip"
+  "initiative": "2d6",
+  "gridDistance": 1,
+  "gridUnits": "m",
+  "primaryTokenAttribute": "resources.ép",
+  "secondaryTokenAttribute": "resources.vé",
+  "url": "https://github.com/Alex76g/HoldvilagFoundryVTT/",
+  "manifest": "https://github.com/Alex76g/HoldvilagFoundryVTT/blob/main/system.json",
+  "download": "https://github.com/Alex76g/HoldvilagFoundryVTT/archive/main.zip"
 }
 
